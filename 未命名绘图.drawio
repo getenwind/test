@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T09:53:12.135Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="p9wvjMCTnoa6TEZm0X6s" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-26T11:37:34.557Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="zgvK0pIQSG-wsFhsmBO5" version="20.5.1" type="github">
   <diagram id="6-Q-cTFYqkNEz7RnKarI" name="第 1 页">
-    <mxGraphModel dx="1483" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1169" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -382,7 +382,7 @@
           <mxGeometry x="950" y="840" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AcqyMiPbvdHm6xkz5a-X-51" value="状态大于 1000&amp;nbsp; 表示报错，&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;align=left;" vertex="1" parent="1">
-          <mxGeometry x="160" y="10" width="750" height="80" as="geometry" />
+          <mxGeometry x="130" y="30" width="750" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AcqyMiPbvdHm6xkz5a-X-56" value="14" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="720" y="1412" width="80" height="80" as="geometry" />
@@ -501,6 +501,9 @@
           <mxGeometry x="-0.1048" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AcqyMiPbvdHm6xkz5a-X-125" value="在该状态转换途中只描述了&amp;nbsp; 正确的情况，&lt;br&gt;发生错误的状态在状态转换表中描述；&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;align=left;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1432" width="490" height="148" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
